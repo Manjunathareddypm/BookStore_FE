@@ -1,0 +1,178 @@
+.signup-form {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    background: #6f6c6c 0% 0% no-repeat padding-box;
+  }
+  
+  .main-container {
+    height: 420px;
+    width: 700px;
+    background: #6f6c6c 0% 0% no-repeat padding-box;
+    border-radius: 21px;
+    display: flex;
+  }
+  
+  .left-box {
+    margin: 20px 0px 20px 20px;
+    width: 45%;
+    border-radius: 20px 0px 0px 20px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .left-box-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 120px;
+  }
+  
+  .left-box-text {
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  
+  .right-box{
+    border-radius: 10px;
+    width: 55%;
+    height: 65;
+    box-shadow: rgb(79, 79, 79) 1px 1px 10px 1px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+  }
+  .first-box{
+    /* border: 1px solid black; */
+    /* border-radius: 10px; */
+    width: 80%;
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 30px;
+    /* margin-top: 20px; */
+  }
+  .signin{
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    width: 40%;
+    height: 80%;
+  }
+  .signup{
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    width: 40%;
+    height: 80%;
+  }
+
+  .second-box{
+    /* border: 1px solid black; */
+    /* border-radius: 10px; */
+    width: 80%;
+    height: 10%;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    margin-left: 30px;
+    margin-bottom: 20px;
+  }
+
+  .firstname1{
+    /* border: 1px solid black; */
+    /* border-radius: 10px; */
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-left: 28px;
+   
+  }
+
+
+  .third-box{
+    /* border: 1px solid black; */
+    /* border-radius: 10px; */
+    width: 80%;
+    height: 10%;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    margin-left: 30px;
+    margin-bottom: 20px;
+  }
+  .email1{
+    /* border: 1px solid red; */
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-left: 28px;
+    
+  }
+  
+  .fourth-box{
+    /* border: 1px solid black; */
+    /* border-radius: 10px; */
+    width: 80%;
+    height: 10%;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    margin-left: 30px;
+    margin-bottom: 20px;
+  }
+  .password1{
+    /* border: 1px solid rgb(175, 36, 36); */
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-left: 28px;
+    
+  }
+  
+  
+  .fifth-box{
+    /* border: 1px solid black; */
+    /* border-radius: 10px; */
+    width: 80%;
+    height: 10%;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    margin-left: 30px;
+    margin-bottom: 20px;
+  }
+  .mobile{
+    /* border: 1px solid black; */
+    /* border-radius: 10px; */
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-left: 28px;
+  }
+  
+ 
+ 
+  .six-box1{
+    /* border: 1px solid rgb(29, 194, 62); */
+    /* border-radius: 10px; */
+    width: 80%;
+    height: 10%;
+    margin-left: 30px;
+    margin-bottom: 30px;
+   
+  }
